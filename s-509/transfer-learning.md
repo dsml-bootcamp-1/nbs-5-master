@@ -1,15 +1,4 @@
-<!-- # Transfer Learning -->
-
-## Learning Outcomes
-
-By the end of this session, you will be able to:
-
-- Describe What is Transfer Learning and understand why it's crucial in computer vision
-- Apply Transfer Learning using Pytorch and Tensorflow in computer vision applications
-
-<br>
-
-## Overview
+# Overview on Transfer Learning
 
 Transfer learning is a powerful technique in machine learning where a model developed for one task is reused as the starting point for a model on a second task. It's a popular approach in deep learning where pre-trained models are used as the basis for training models on new but related problems.
 
@@ -41,14 +30,3 @@ Transfer learning has a wide range of applications, including:
 - Medical Diagnosis: Models trained on general health data can be fine-tuned to diagnose specific diseases from medical images.
 
 In summary, transfer learning is a method that saves time and resources in training machine learning models and can lead to better performance, especially when dealing with related tasks or when data is scarce. PyTorch or Tensorflow, with their extensive library of pre-trained models and easy-to-use API, makes implementing transfer learning straightforward and efficient as we will today.
-
-<br>
-
-## Lesson
-
-Class materials can be found here: 
-
-- **[Transfer Learning for Image Classification in PyTorch](https://github.com/AI-Engineering-bootcamp/ai-eng-nbs-public/blob/master/transfer-learning-1.ipynb)**
-- **[Image Classification: Using Transformer](https://github.com/AI-Engineering-bootcamp/ai-eng-nbs-public/blob/master/transfer-learning-2.ipynb)**
-- **[Transfer learning with TensorFlow Hub](https://github.com/AI-Engineering-bootcamp/ai-eng-nbs-public/blob/master/transfer-learning-3.ipynb)**
-- **[Transfer learning and fine-tuning](https://github.com/AI-Engineering-bootcamp/ai-eng-nbs-public/blob/master/transfer-learning-4.ipynb)**
